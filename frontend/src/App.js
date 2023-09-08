@@ -18,6 +18,13 @@ function App() {
       <div key={item.id}>
         <h1>{item.name}</h1>
         <div>{item.description}</div>
+        <div>
+          <p>
+            <b>{item.price} EUR</b>
+            <em> Left in stock </em>
+            {item.qnt_warehause} units
+          </p>
+        </div>
       </div>
       )}
     </div>
