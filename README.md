@@ -1,3 +1,3 @@
-# About
+# Product get api
 
-This is almost emty task, with one fetch route.
+Training task - one fetch route, to implement fullstack connectivity.
